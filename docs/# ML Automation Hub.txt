@@ -1,6 +1,3 @@
-# ml-automation-hub
-Infrastructure for ML experimentation and development
-
 # ML Automation Hub
 
 Infrastructure for machine learning experimentation and rapid MVP development.
